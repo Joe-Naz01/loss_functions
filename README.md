@@ -2,6 +2,8 @@
 
 **Problem.** Different learning objectives use distinct loss functions that shape how models learn and generalize. This notebook demonstrates and visualizes key loss functions used in classification and regression.
 
+**Dataset** [Boston Housing Prices](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices/data)
+
 **Approach.**
 - Implemented **Logistic Loss**, **Hinge Loss**, and **Squared Error** manually and with `scikit-learn`.
 - Visualized how each loss penalizes misclassification or residual errors.
